@@ -12,6 +12,7 @@
 		001222271C3D10F20094BECE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 001222251C3D10F20094BECE /* Main.storyboard */; };
 		001222291C3D10F20094BECE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 001222281C3D10F20094BECE /* Assets.xcassets */; };
 		0012222C1C3D10F20094BECE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0012222A1C3D10F20094BECE /* LaunchScreen.storyboard */; };
+		001222341C3D11210094BECE /* zombies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 001222331C3D11210094BECE /* zombies.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		001222281C3D10F20094BECE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0012222B1C3D10F20094BECE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0012222D1C3D10F20094BECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		001222331C3D11210094BECE /* zombies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zombies.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				001222211C3D10F20094BECE /* AppDelegate.swift */,
 				001222231C3D10F20094BECE /* ViewController.swift */,
 				001222251C3D10F20094BECE /* Main.storyboard */,
+				001222331C3D11210094BECE /* zombies.jpg */,
 				001222281C3D10F20094BECE /* Assets.xcassets */,
 				0012222A1C3D10F20094BECE /* LaunchScreen.storyboard */,
 				0012222D1C3D10F20094BECE /* Info.plist */,
@@ -126,6 +129,7 @@
 				0012222C1C3D10F20094BECE /* LaunchScreen.storyboard in Resources */,
 				001222291C3D10F20094BECE /* Assets.xcassets in Resources */,
 				001222271C3D10F20094BECE /* Main.storyboard in Resources */,
+				001222341C3D11210094BECE /* zombies.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
